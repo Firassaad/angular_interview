@@ -1,12 +1,6 @@
 # angular_interview
 
-Regex : regular expressions are powerfull patterns that allow you to define specific criteria for input validation 
-Angular reactive forms empower you to seamlessly integrate regex into your validation strategies
-  here's an example of using regex to validate an email input
-
-
-![image](https://github.com/Firassaad/angular_interview/assets/36532618/90e8b1e6-6864-4b38-a017-5a2d7ca68164)
-
+https://github.com/delprzemo/angular-cheatsheet
 
 Reactive Forms : key concepts:
 1. Form Control : single input field within a form , it manages value and validation state of the input
@@ -29,3 +23,12 @@ Reactive Forms : key concepts:
 12. Form reset and Initializations : understand how to share form data and form control instance between components | use Angular services to manage form state and data sharing in a mutlti-component application
 13. Testing : write unit tests for reactive forms using Angular's testing utilitues , sush as 'TestBed' and 'FormControlTester' 
 
+
+
+
+Regex : regular expressions are powerfull patterns that allow you to define specific criteria for input validation 
+Angular reactive forms empower you to seamlessly integrate regex into your validation strategies
+  here's an example of using regex to validate an email input
+
+
+![image](https://github.com/Firassaad/angular_interview/assets/36532618/90e8b1e6-6864-4b38-a017-5a2d7ca68164)
